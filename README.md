@@ -11,7 +11,7 @@ This repository contains the explanation videos for my academic projects. In the
 ### 📌 Project 2: AI-Powered Jharkhand Tourism
 
 ▶️ **Watch the video here:**  
-**Google Drive:** [Self-Introduction Video](https://drive.google.com/drive/folders/1bH8Q_mMlAYLnrBrvLAzwHRCgWQqEaVS3?usp=drive_link)
+**Google Drive:** [Project Explanation Video](https://drive.google.com/drive/folders/1bH8Q_mMlAYLnrBrvLAzwHRCgWQqEaVS3?usp=drive_link)
 
 ---
 
