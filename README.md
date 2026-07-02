@@ -8,13 +8,10 @@ This repository contains the explanation videos for my academic projects. In the
 
 ### 📌 Project 1: PRONUNEX – Intelligent Speech Therapy Platform
 
-**Google Drive Link:**  
-https://drive.google.com/your-project1-link
-
 ### 📌 Project 2: AI-Powered Jharkhand Tourism
 
-**Google Drive Link:**  
-https://drive.google.com/your-project2-link
+▶️ **Watch the video here:**  
+**Google Drive:** [Self-Introduction Video](https://drive.google.com/drive/folders/1bH8Q_mMlAYLnrBrvLAzwHRCgWQqEaVS3?usp=drive_link)
 
 ---
 
