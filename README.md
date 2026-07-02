@@ -55,7 +55,7 @@ To build an AI-powered tourism platform that helps users explore tourist destina
 
 ## 📫 Connect With Me
 
-- **GitHub:** https://github.com/kadajnanadeepika-245
+- **GitHub:** [Github](https://github.com/kadajnanadeepika-245)
 - **LinkedIn:** [Linkedin](https://www.linkedin.com/in/jnana-deepika-lakshmi-sowmya-kada-511133298/)
 
 ---
